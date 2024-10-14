@@ -1,0 +1,67 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+
+
+.logoText{
+    font-weight: bold;
+    font-family:"Fuzzy Bubbles",sans-serif;
+    font-size: 1.1rem;
+    /* background-color: #323639; */
+    /* color:#d6d6d7; */
+    /* width:max-content */
+    color: #323639;
+    margin-right:30px;
+}
+
+.header{
+    padding: 1px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+ .left{
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items:center;
+}
+
+.right > * {
+    margin:0 10px;
+    color:blue;
+}
+
+.body{
+    display:flex;
+    justify-content: space-between;
+}
+
+.body > *{
+    padding:20px 100px;
+    margin:0px 50px;
+    /* flex-basis: 50%; */
+    border:1px dashed black;
+    height:90vh;
+
+}
+
+.body .blog{
+    flex-grow:3;
+}
+
+.body .share{
+    flex-grow:1;
+}
+
+.readTime{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom:15px;
+}
+
