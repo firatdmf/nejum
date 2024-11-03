@@ -1,8 +1,8 @@
-import Image from "next/image";
+// import Image from "next/image";
 import classes from "./page.module.css";
 import Link from "next/link";
 export default function Home() {
-  let article: String = "Selecting the right product metrics (KPIs)";
+  const article: string = "Selecting the right product metrics (KPIs)";
   return (
     <div className="HomePage">
       <div className={`${classes.header} bg-[#f1f1f1] shadow-xl `}>
