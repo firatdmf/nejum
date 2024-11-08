@@ -1,0 +1,28 @@
+.body{
+    display:flex;
+    justify-content: space-between;
+}
+
+.body > *{
+    padding:20px 100px;
+    margin:0px 50px;
+    /* flex-basis: 50%; */
+    border:1px dashed black;
+    height:90vh;
+
+}
+
+.body .blog{
+    flex-grow:3;
+}
+
+.body .share{
+    flex-grow:1;
+}
+
+.readTime{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom:15px;
+}
+
