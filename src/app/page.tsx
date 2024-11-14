@@ -1,8 +1,7 @@
 // import Image from "next/image";
-import classes from "./page.module.css";
 import Link from "next/link";
 export default function Home() {
-  const article: string = "Selecting the right product metrics (KPIs)";
+  // const article: string = "Selecting the right product metrics (KPIs)";
   return (
     <div className="HomePage">
       <p className="text-2xl">This is the landing page.</p>

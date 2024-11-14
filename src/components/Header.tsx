@@ -1,7 +1,7 @@
 import Link from "next/link";
 import classes from "./Header.module.css";
 export default function Header() {
-  const article: string = "Selecting the right product metrics (KPIs)";
+  // const article: string = "Selecting the right product metrics (KPIs)";
 
   return (
     <div>

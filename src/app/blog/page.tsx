@@ -101,7 +101,7 @@ export default function Blog() {
           </div>
         </div>
         <div className={classes.right}>
-          <p>Don't miss the next article.</p>
+          <p>Don&apost;miss the next article.</p>
           <label htmlFor="email_subscribe">Subscribe to our newsletter</label>
           <br />
           <input
