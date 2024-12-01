@@ -1,0 +1,23 @@
+Write about 
+
+quitting addictions
+being self sufficient
+having a life purpose and pursue
+managing business with simplicity
+minimalism
+open source
+facilitate receiving [willing to get paid, or letting to be loved]
+
+How does money work?
+Do resources ever end in the world?
+What is energy exactly?
+What are interest rates?
+
+Tech:
+What is an IP address? IPv4 ? why 192.168.....
+DNS nedir?
+What is TCP/IP
+What is HTTP
+What are web sockets?
+What is a web server?
+What are port numbers?

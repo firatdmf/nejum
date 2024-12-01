@@ -6,6 +6,8 @@ export default function Home() {
     <div className="HomePage">
       <p className="text-2xl">This is the landing page.</p>
       <Link href="/blog">Go to blogs here</Link>
+
+      <h2 className="text-3xl">We provide industrial automation and digital transformation services for distributors and manufacturers. </h2>
     </div>
   );
 }
