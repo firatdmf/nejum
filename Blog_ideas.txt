@@ -13,9 +13,12 @@ Do resources ever end in the world?
 What is energy exactly?
 What are interest rates?
 
+
+Write about history of computers from early age to today's internet
+
 Tech:
 What is an IP address? IPv4 ? why 192.168.....
-DNS nedir?
+What is DNS?
 What is TCP/IP
 What is HTTP
 What are web sockets?
