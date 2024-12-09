@@ -4,23 +4,23 @@ export default function Header() {
   // const article: string = "Selecting the right product metrics (KPIs)";
 
   return (
-    <div>
+    <div className={classes.HeaderComponent}>
       <div className={classes.topLine}></div>
-      <div className={`${classes.header} bg-[#f1f1f1] shadow-xl `}>
+      {/* <div className={`${classes.header} bg-[#f1f1f1] shadow-xl `}> */}
+      <div className={`${classes.header}  bg-[#F3ECE7] `}>
         <div className={classes.left}>
           <Link href="/">
             <div className={classes.logoText}>Nejum</div>
           </Link>
-          {/* <p>
-            Nejum »{" "}
-            <Link  href="">
-              {article}
-            </Link>
-          </p> */}
         </div>
         <div className={classes.middle}>
           <div>
             <ul>
+              {/* <li>
+                <Link href="/">
+                  <div className={classes.logoText}>Nejum</div>
+                </Link>
+              </li> */}
               <li>
                 <Link href="/blog">Product</Link>
               </li>

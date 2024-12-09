@@ -24,3 +24,68 @@ What is HTTP
 What are web sockets?
 What is a web server?
 What are port numbers?
+
+
+First few days
+-----------------------
+
+Let's start with the content plan for the blog posts since it will guide your writing and keep your audience engaged. Here's a suggested outline for your first few posts:
+
+Blog Content Plan: "The Evolution of Technology"
+Post 1: Introduction – From Stone Tools to the Digital Age
+
+Overview: Introduce the theme of technological progress. Highlight how humanity’s inventions, from the simplest tools to modern computer networks, have shaped the world we live in today.
+Why It Matters: Connect this to your vision for Nejum, emphasizing how technological evolution continues to drive innovation in business systems like ERP.
+Call to Action (CTA): Encourage readers to follow the series and stay tuned for the next blog.
+Post 2: The Age of Tools – Early Human Innovations
+
+Overview: Dive into early human inventions—stone tools, fire, the wheel—and how these breakthroughs laid the foundation for everything that followed.
+Key Insights: Explore how these early technologies solved basic survival problems and introduced the idea of systems and processes.
+CTA: Link this to the modern world by introducing the concept of "systematization," which is key to modern ERP solutions.
+Post 3: The Industrial Revolution – The Rise of Machines
+
+Overview: Discuss the leap from manual labor to mechanized processes during the Industrial Revolution, leading to faster production, which parallels modern business automation.
+Key Insights: Talk about early industrial machinery and how standardization began, creating a need for tracking and inventory systems.
+CTA: Highlight how today’s ERP systems, like Nejum, trace their roots back to managing these large-scale industrial processes.
+Post 4: The Birth of Computing – From Enigma to the Internet
+
+Overview: Cover the history of computing, from the early calculators to the first computers, and how they revolutionized data processing.
+Key Insights: Explain the role of computing in modern supply chain management, including data processing, accuracy, and speed.
+CTA: Link this to how Nejum helps businesses manage data with the same efficiency that computers brought to industry.
+Post 5: DNS, IP, and Networking – The Backbone of Modern Systems
+
+Overview: Transition to modern network systems and how DNS and IP addresses are essential to communication across the internet.
+Key Insights: Discuss how interconnected systems rely on these protocols, making them critical for the functioning of today’s businesses.
+CTA: Tie this to Nejum’s ability to manage complex distributor networks, streamlining communication and data flow.
+Landing Page Structure for Nejum
+Once your blog content starts coming together, here's a structure you can use for the landing page to support your blog and product:
+
+Hero Section:
+
+Headline: “Empowering Distributors, Simplifying Growth.”
+Subheadline: "A simple, powerful ERP system designed for distributors and manufacturers."
+Call to Action: “Get Started” or “Learn More” buttons.
+About Nejum:
+
+Brief introduction to Nejum, focusing on the simplicity and efficiency it brings to distributors.
+Mention how it fits into the broader technological evolution that you’ll be covering in the blog.
+Features of Nejum:
+
+Bullet points highlighting key features (inventory management, order processing, accounting, etc.).
+Mention how the system is designed for real-world distributor needs.
+Blog Preview:
+
+Feature a section with the latest blog posts. Include the title and a brief excerpt, with a "Read More" link.
+Testimonials or Case Studies:
+
+Eventually, you can add this section once you have clients. For now, a placeholder that teases future success stories could work.
+Contact and Sign-Up:
+
+Include a simple sign-up form and your contact information for inquiries or demos.
+
+
+-----------------------
+
+
+Improvements:
+make the footer like katana

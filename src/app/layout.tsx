@@ -15,8 +15,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Nejum | The Holistic Guide to Industry",
-  description: "Nejum is providing Digital Transformation and Industrial Automation services",
+  title: "Nejum | Your Middle-Manager",
+  // description: "Nejum is providing Digital Transformation and Industrial Automation services",
+  description: "Nejum is a SaaS ERP solution for distributors and B2B businesses.",
 };
 
 export default function RootLayout({
@@ -28,7 +29,8 @@ export default function RootLayout({
     
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        // className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#e8e6e0]`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#F3ECE7]`}
       >
         <Header></Header>
         {children}
