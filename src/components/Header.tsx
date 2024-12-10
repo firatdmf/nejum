@@ -40,7 +40,7 @@ export default function Header() {
           </div>
         </div>
         <div className={classes.right}>
-          <Link href="">All Articles</Link>
+          <Link href="https://app.nejum.com">Login</Link>
           <Link href="">Author</Link>
         </div>
       </div>

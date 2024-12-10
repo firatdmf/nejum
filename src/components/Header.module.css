@@ -48,10 +48,11 @@
 }
 
 .HeaderComponent .header .middle ul li:hover {
-  color: red;
+  color: saddlebrown;
+  color: #8b4513;
 }
 
 .HeaderComponent .right > * {
   margin: 0 10px;
-  color: blue;
+  color: saddlebrown;
 }

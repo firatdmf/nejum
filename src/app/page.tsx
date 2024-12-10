@@ -6,8 +6,7 @@ export default function LandingPage() {
   return (
     <div className={classes.LandingPage}>
       <p className="text-3xl">
-        Simplify and automate your business with your virtual middle-manager
-        Nejum
+        Simplify your business with Nejum
       </p>
       <section className="py-20" id="features">
         <div className="container mx-auto px-6">
@@ -56,7 +55,7 @@ export default function LandingPage() {
           </p>
           <a
             href="mailto:hi@nejum.com"
-            className="bg-blue-600 text-white py-2 px-6 rounded-full text-lg hover:bg-blue-700"
+            className="bg-[#FF5733] text-white py-2 px-6 rounded-full text-lg hover:bg-blue-700"
           >
             Contact Us
           </a>
@@ -64,7 +63,7 @@ export default function LandingPage() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-blue-900 text-white py-4">
+      <footer className="bg-[#FF5733] text-white py-4">
         <div className="container mx-auto text-center">
           <p>&copy; 2024 Nejum. All Rights Reserved.</p>
         </div>
